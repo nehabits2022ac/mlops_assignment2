@@ -3,7 +3,7 @@ lime
 scikit-learn
 ydata_profiling
 imblearn
-numpy
+numpy==1.21.0
 h2o
 tpot
 flask
