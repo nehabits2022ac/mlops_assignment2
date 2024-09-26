@@ -7,3 +7,4 @@ numpy
 h2o
 tpot
 flask
+joblib
